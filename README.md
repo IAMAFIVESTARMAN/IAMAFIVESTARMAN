@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![](https://komarev.com/ghpvc/?username=IAMAFIVESTARMAN&style=for-the-badge&label=CREEPERS+TILL+NOW&color=green)
+![](https://komarev.com/ghpvc/?username=IAMAFIVESTARMAN&style=for-the-badge&label=CREEPERS+TILL+NOW&color=blue)
 <!--
 **IAMAFIVESTARMAN/IAMAFIVESTARMAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
