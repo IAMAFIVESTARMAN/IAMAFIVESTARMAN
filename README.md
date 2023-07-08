@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=IAMAFIVESTARMAN&style=for-the-badge&label=CREEPERS+TILL+NOW&color=blue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAMAFIVESTARMAN&layout=donut-vertical)](https://github.com/IAMAFIVESTARMAN/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAMAFIVESTARMAN&layout=donut-vertical&theme=dark)](https://github.com/IAMAFIVESTARMAN/github-readme-stats)
 <!--
 **IAMAFIVESTARMAN/IAMAFIVESTARMAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
